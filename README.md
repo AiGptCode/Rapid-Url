@@ -55,7 +55,7 @@ The program provides detailed information about the website, including programmi
 To analyze a website, run the program as follows:
 
 ```
-python Rapid Url.py https://example.com
+python rapid_url.py https://example.com
 ```
 
 ## License
