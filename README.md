@@ -30,7 +30,7 @@ pip install -r requirements.txt
 3. Run the program by providing a URL as an argument:
 
    ```
-   python Rapid Url.py <URL>
+   python rapid_url.py <URL>
    ```
 
    Replace `<URL>` with the website URL you want to analyze.
