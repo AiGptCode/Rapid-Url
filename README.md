@@ -1,7 +1,5 @@
 # Rapid-Url
 
-بله، می‌توان README را بهتر و جامع‌تر کرد. این یک نسخه اصلاحی از README است:
-
 
 # Web Information Program
 
