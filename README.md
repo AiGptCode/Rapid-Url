@@ -1,7 +1,4 @@
-# Rapid-Url
-
-
-# URL EXTRACTOR 
+## Rapid URL 
 
 This Python program allows you to retrieve comprehensive information about a website, including its title, last modified date, DNS information, subdomains, firewall names, technologies used, and certificate information.
 
