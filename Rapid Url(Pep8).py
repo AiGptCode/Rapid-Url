@@ -10,7 +10,7 @@ import certifi
 import socket
 import whois
 import ssl
-import pytesseract  # Don't forget to import pytesseract for OCR
+import pytesseract 
 
 def get_page_title(url):
     try:
