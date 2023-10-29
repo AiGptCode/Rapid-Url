@@ -61,4 +61,4 @@ python Rapid Url.py https://example.com
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-`
+
