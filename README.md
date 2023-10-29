@@ -1,7 +1,7 @@
 # Rapid-Url
 
 
-# Web Information Program
+# URL EXTRACTOR 
 
 This Python program allows you to retrieve comprehensive information about a website, including its title, last modified date, DNS information, subdomains, firewall names, technologies used, and certificate information.
 
@@ -18,33 +18,33 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/AIGptCode/Rapid-Url.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd your-repo
+   cd Rapid-Url
    ```
 
 3. Run the program by providing a URL as an argument:
 
    ```
-   python web_info.py <URL>
+   python Rapid Url.py <URL>
    ```
 
    Replace `<URL>` with the website URL you want to analyze.
 
 ## Features
 
-- **Page Title:** Retrieve the title of the web page.
-- **Last Modified Date:** Get the last modified date of the website.
-- **Creation Date:** Find the domain creation date using WHOIS information.
-- **DNS Information:** Discover the IP addresses associated with the domain.
-- **Subdomains:** List subdomains associated with the domain.
-- **Firewall Names:** Detect firewall information from HTTP response headers.
-- **Technologies Used:** Identify technologies and programming languages used in the website.
-- **Certificate Information:** Get details about the SSL certificate, including issuer and validity period.
+- Page Title:** Retrieve the title of the web page.
+- Last Modified Date:** Get the last modified date of the website.
+- Creation Date:** Find the domain creation date using WHOIS information.
+- DNS Information:** Discover the IP addresses associated with the domain.
+- Subdomains:** List subdomains associated with the domain.
+- Firewall Names:** Detect firewall information from HTTP response headers.
+- Technologies Used:** Identify technologies and programming languages used in the website.
+- Certificate Information:** Get details about the SSL certificate, including issuer and validity period.
 
 ## Output
 
@@ -55,7 +55,7 @@ The program provides detailed information about the website, including programmi
 To analyze a website, run the program as follows:
 
 ```
-python web_info.py https://example.com
+python Rapid Url.py https://example.com
 ```
 
 ## License
