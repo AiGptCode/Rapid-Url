@@ -6,7 +6,7 @@ This Python program allows you to retrieve comprehensive information about a web
 <a href="https://ibb.co/NNTtpC9"><img src="https://i.ibb.co/s1WbQRK/IMG-5871.jpg" alt="IMG-5871" border="0"></a>
 
 ## Prerequisites
-
+ 
 Before using this program, make sure you have the required Python packages installed. You can install them using pip:
 
 ```
